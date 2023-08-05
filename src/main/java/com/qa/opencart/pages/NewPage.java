@@ -5,6 +5,9 @@ public class NewPage {
 		
 	}
 public void login() {
+
 	System.out.println("supraja login method");
+	int i=10;
+	int j=20;
 }
 }
