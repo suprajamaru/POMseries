@@ -1,9 +1,7 @@
 package com.qa.opencart.pages;
 
-public class cartpage {
-	int i=13;
-	
+public class demopage {
 public static void main(String[] args) {
-	
+	System.out.println("demo");
 }
 }
